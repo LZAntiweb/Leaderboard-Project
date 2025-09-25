@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏆 Hacker Leaderboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <canvas id="matrix"></canvas>
+
+  <div class="container">
+    <h1>🏆 Hacker Leaderboard</h1>
+
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search by name or country..." />
+    </div>
+
+    <table id="leaderboard">
+      <thead>
+        <tr>
+          <th data-column="rank">Rank ▲▼</th>
+          <th>Avatar</th>
+          <th data-column="firstName">First Name ▲▼</th>
+          <th data-column="lastName">Last Name ▲▼</th>
+          <th data-column="score">Score ▲▼</th>
+          <th data-column="level">Level ▲▼</th>
+          <th data-column="joinDate">Join Date ▲▼</th>
+          <th data-column="country">Country ▲▼</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <div class="pagination">
+      <button id="prevBtn">⟨ Previous</button>
+      <span id="pageInfo"></span>
+      <button id="nextBtn">Next ⟩</button>
+    </div>
+  </div>
+
+  <script src="matrix.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
