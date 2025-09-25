@@ -1,0 +1,10 @@
+[
+  {"firstName": "Jane", "lastName": "Smith", "score": 1450, "level": 7, "joinDate": "2023-02-14", "country": "UK", "photo": "https://randomuser.me/api/portraits/women/10.jpg"},
+  {"firstName": "Emma", "lastName": "Wilson", "score": 1600, "level": 8, "joinDate": "2023-04-15", "country": "Australia", "photo": "https://randomuser.me/api/portraits/women/20.jpg"},
+  {"firstName": "Liam", "lastName": "Johnson", "score": 1100, "level": 4, "joinDate": "2023-05-12", "country": "New Zealand", "photo": "https://randomuser.me/api/portraits/men/30.jpg"},
+  {"firstName": "Olivia", "lastName": "Martinez", "score": 1350, "level": 6, "joinDate": "2023-06-20", "country": "Spain", "photo": "https://randomuser.me/api/portraits/women/40.jpg"},
+  {"firstName": "Noah", "lastName": "Anderson", "score": 1250, "level": 5, "joinDate": "2023-07-01", "country": "USA", "photo": "https://randomuser.me/api/portraits/men/50.jpg"},
+  {"firstName": "William", "lastName": "Lee", "score": 1020, "level": 4, "joinDate": "2023-09-05", "country": "Canada", "photo": "https://randomuser.me/api/portraits/men/60.jpg"},
+  {"firstName": "James", "lastName": "Hall", "score": 980, "level": 3, "joinDate": "2023-11-10", "country": "New Zealand", "photo": "https://randomuser.me/api/portraits/men/70.jpg"},
+  {"firstName": "Isabella", "lastName": "Allen", "score": 1380, "level": 7, "joinDate": "2023-12-01", "country": "Spain", "photo": "https://randomuser.me/api/portraits/women/80.jpg"}
+]
